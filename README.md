@@ -1,2 +1,2 @@
-# RaiseTech
-RaiseTech学習用のリポジトリ
+# RaiseTech_AWS
+AWSコース学習用のリポジトリ
